@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](github-readme-stats-delta-smoky.vercel.app/api/top-langs/?username=Sakyce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-delta-smoky.vercel.app/api?username=sakyce" />
+</a>
